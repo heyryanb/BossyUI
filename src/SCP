@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
+  <Id>21966839-ab77-4ee6-8f52-16e6a1102923</Id>
+  <Version>1.0.0.13</Version>
+  <ProviderName>Microsoft</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="Sales Copilot (INT)">
+    <Override Locale="ar" Value="Sales Copilot (INT)" />
+    <Override Locale="bg" Value="Sales Copilot (INT)" />
+    <Override Locale="ca" Value="Sales Copilot (INT)" />
+    <Override Locale="cs" Value="Sales Copilot (INT)" />
+    <Override Locale="da" Value="Sales Copilot (INT)" />
+    <Override Locale="de" Value="Sales Copilot (INT)" />
+    <Override Locale="el" Value="Sales Copilot (INT)" />
+    <Override Locale="en-gb" Value="Sales Copilot (INT)" />
+    <Override Locale="es-mx" Value="Sales Copilot (INT)" />
+    <Override Locale="es" Value="Sales Copilot (INT)" />
+    <Override Locale="et" Value="Sales Copilot (INT)" />
+    <Override Locale="eu" Value="Sales Copilot (INT)" />
+    <Override Locale="fi" Value="Sales Copilot (INT)" />
+    <Override Locale="fr-ca" Value="Sales Copilot (INT)" />
+    <Override Locale="fr" Value="Sales Copilot (INT)" />
+    <Override Locale="gl" Value="Sales Copilot (INT)" />
+    <Override Locale="he" Value="Sales Copilot (INT)" />
+    <Override Locale="hi" Value="Sales Copilot (INT)" />
+    <Override Locale="hr" Value="Sales Copilot (INT)" />
+    <Override Locale="hu" Value="Sales Copilot (INT)" />
+    <Override Locale="id" Value="Sales Copilot (INT)" />
+    <Override Locale="it" Value="Sales Copilot (INT)" />
+    <Override Locale="ja" Value="Sales Copilot (INT)" />
+    <Override Locale="kk" Value="Sales Copilot (INT)" />
+    <Override Locale="ko" Value="Sales Copilot (INT)" />
+    <Override Locale="lt" Value="Sales Copilot (INT)" />
+    <Override Locale="lv" Value="Sales Copilot (INT)" />
+    <Override Locale="ms" Value="Sales Copilot (INT)" />
+    <Override Locale="nb-no" Value="Sales Copilot (INT)" />
+    <Override Locale="nl" Value="Sales Copilot (INT)" />
+    <Override Locale="pl" Value="Sales Copilot (INT)" />
+    <Override Locale="pt-br" Value="Sales Copilot (INT)" />
+    <Override Locale="pt-pt" Value="Sales Copilot (INT)" />
+    <Override Locale="ro" Value="Sales Copilot (INT)" />
+    <Override Locale="ru" Value="Sales Copilot (INT)" />
+    <Override Locale="sk" Value="Sales Copilot (INT)" />
+    <Override Locale="sl" Value="Sales Copilot (INT)" />
+    <Override Locale="sr-cyrl" Value="Sales Copilot (INT)" />
+    <Override Locale="sr-la" Value="Sales Copilot (INT)" />
+    <Override Locale="sv" Value="Sales Copilot (INT)" />
+    <Override Locale="th" Value="Sales Copilot (INT)" />
+    <Override Locale="tr" Value="Sales Copilot (INT)" />
+    <Override Locale="uk" Value="Sales Copilot (INT)" />
+    <Override Locale="vi" Value="Sales Copilot (INT)" />
+    <Override Locale="zh-cn" Value="Sales Copilot (INT)" />
+    <Override Locale="zh-hk" Value="Sales Copilot (INT)" />
+    <Override Locale="zh-tw" Value="Sales Copilot (INT)" />
+  </DisplayName>
+  <Description DefaultValue="See customer info and update your CRM directly from Outlook, and collaborate on deals and get rich insights on sales meetings with Microsoft Teams.">
+    <Override Locale="ar" Value="راجع معلومات العميل وحدّث CRM مباشرة من Outlook، وتعاون في العمل على الصفقات واحصل على رؤى غينة حول اجتماعات المبيعات من خلال Microsoft Teams." />
+    <Override Locale="bg" Value="Вижте информация за клиента и актуализирайте своя CRM директно от Outlook и си сътрудничете по сделки и получавайте богата аналитична информация за срещи за продажби с Microsoft Teams." />
+    <Override Locale="ca" Value="Vegeu informació del client i actualitzeu el vostre CRM directament des de l'Outlook, i col·laboreu en operacions i obteniu informació detallada sobre les reunions de vendes amb el Microsoft Teams." />
+    <Override Locale="cs" Value="Můžete si prohlížet informace o zákaznících a aktualizovat CRM přímo v Outlooku, spolupracovat na obchodech a získat cenné informace o prodejních schůzkách přes Microsoft Teams." />
+    <Override Locale="da" Value="Få vist kundeoplysninger, og opdater din CRM direkte fra Outlook, og samarbejd om handler, og få indsigt i salgsmøde med Microsoft Teams." />
+    <Override Locale="de" Value="Zeigen Sie Kundeninformationen an und aktualisieren Sie Ihren CRM direkt in Outlook, und arbeiten Sie zusammen an Geschäftsabschlüssen und erhalten Sie umfassende Erkenntnisse aus Vertriebsbesprechungen mit Microsoft Teams." />
+    <Override Locale="el" Value="Δείτε πληροφορίες πελατών και ενημερώστε το CRM απευθείας από το Outlook, συνεργαστείτε σε συμφωνίες και αποκτήστε εμπλουτισμένες πληροφορίες σχετικά με συσκέψεις πωλήσεων με το Microsoft Teams." />
+    <Override Locale="en-gb" Value="See customer info and update your CRM directly from Outlook, and collaborate on deals and get rich insights on sales meetings with Microsoft Teams." />
+    <Override Locale="es-mx" Value="Consulte información del cliente y actualice su instancia de CRM directamente en Outlook, colabore en las ofertas y obtenga información valiosa sobre las reuniones de venta con Microsoft Teams." />
+    <Override Locale="es" Value="Vea información del cliente y actualice su sistema de CRM directamente desde Outlook, y colabore en operaciones y obtenga información enriquecida de las reuniones de ventas con Microsoft Teams." />
+    <Override Locale="et" Value="Saate kuvada klienditeavet ja värskendada oma CRM-i otse Outlookis ning arendada tehinguid ja saada müügikoosolekute kohta rikkalikke ülevaateid Microsoft Teamsis." />
+    <Override Locale="eu" Value="Ikusi bezeroen informazioa eta eguneratu CRM zuzenean Outlook-etik, aritu elkarlanean tratuetan eta lortu salmenta-bileren xehetasun aberatsak Microsoft Teams-i esker." />
+    <Override Locale="fi" Value="Näytä asiakastiedot ja päivitä CRM-järjestelmäsi suoraan Outlookista sekä tee yhteistyötä kaupanteossa ja hanki monipuolisia tietoja myyntikokouksista Microsoft Teamsilla." />
+    <Override Locale="fr-ca" Value="Consultez les informations des clients et mettez à jour votre CRM directement à partir d’Outlook. Collaborez sur des contrats et obtenez de précieuses informations sur les réunions commerciales avec Microsoft Teams." />
+    <Override Locale="fr" Value="Consultez les informations sur le client et mettez à jour votre version de CRM directement depuis Outlook, puis collaborez sur des transactions et obtenez des informations enrichies sur les réunions sur les ventes avec Microsoft Teams." />
+    <Override Locale="gl" Value="Consulte a información do cliente e actualice o seu CRM directamente desde Outlook, colabore en ofertas e obteña información enriquecida sobre reunións de vendas con Microsoft Teams." />
+    <Override Locale="he" Value="הצג את פרטי הלקוח ועדכן את מערכת CRM שלך ישירות מ- Outlook, ושתף פעולה בעסקאות וקבל תובנות עשירות לגבי פגישות מכירה באמצעות Microsoft Teams." />
+    <Override Locale="hi" Value="ग्राहक जानकारी देखें और अपने CRM को सीधे Outlook से अपडेट करें, और सौदों पर सहयोग करें और Microsoft Teams के साथ विक्रय मीटिंग्स पर रिच इनसाइट्स प्राप्त करें." />
+    <Override Locale="hr" Value="Pogledajte podatke o klijentima i ažurirajte svoj CRM izravno iz programa Outlook te surađujte na poslovima i primajte bogate uvide o prodajnim sastancima uz Microsoft Teams." />
+    <Override Locale="hu" Value="Megtekintheti az ügyfelek adatait, frissítheti CRM-jét közvetlenül az Outlookból, együttműködhet munkatársaival az értékesítés során, és részletes betekintéseket kaphat az értékesítési találkozókról a Microsoft Teams segítségével." />
+    <Override Locale="id" Value="Lihat info pelanggan dan perbarui CRM langsung dari Outlook, lalu kolaborasikan penawaran serta dapatkan wawasan yang kaya tentang rapat penjualan dengan Microsoft Teams." />
+    <Override Locale="it" Value="Visualizza le informazioni sul cliente e aggiorna il CRM direttamente da Outlook, quindi collabora alle transazioni e ottieni informazioni dettagliate approfondite sulle riunioni di vendita con Microsoft Teams." />
+    <Override Locale="ja" Value="Outlook から顧客情報を表示して直接 CRM を更新し、Microsoft Teams で取引を共同作業して営業会議で充実した分析情報を取得します。" />
+    <Override Locale="kk" Value="Тұтынушы туралы ақпаратты қараңыз және CRM жүйесін тікелей Outlook бағдарламасынан жаңартыңыз, сонымен қатар Microsoft Teams жүйесімен келісімдер бойынша бірлесіп жұмыс жасаңыз және сатылым жиналыстары туралы пішімделген мәліметтер алыңыз." />
+    <Override Locale="ko" Value="Microsoft Teams를 사용하여 고객 정보를 보고 Outlook에서 바로 CRM을 업데이트하고, 거래에 대한 공동 작업을 수행하고 영업 모임에 관한 다양한 인사이트를 얻으세요." />
+    <Override Locale="lt" Value="Peržiūrėkite kliento informaciją ir atnaujinkite savo CRM tiesiai per „Outlook“, bendradarbiaukite dėl sandorių ir gaukite išsamių įžvalgų apie pardavimų susitikimus per „Microsoft Teams“." />
+    <Override Locale="lv" Value="Skatiet klientu informāciju un atjauniniet savus CRM datus tieši no Outlook, kā arī sadarbojieties darījumos un iegūstiet bagātīgus ieskatus par pārdošanas sapulcēm programmā Microsoft Teams." />
+    <Override Locale="ms" Value="Lihat maklumat pelanggan dan kemas kini CRM anda terus daripada Outlook, di samping bekerjasama dalam urusan serta mendapatkan cerapan beraneka tentang mesyuarat jualan dengan Microsoft Teams." />
+    <Override Locale="nb-no" Value="Se kundeinformasjon og oppdater CRM direkte fra Outlook, og samarbeid om avtaler og få omfattende innsikt i salgsmøter med Microsoft Teams." />
+    <Override Locale="nl" Value="Bekijk klantgegevens en werk uw CRM direct vanuit Outlook bij, werk samen aan deals en krijg uitgebreide inzichten over verkoopgesprekken met Microsoft Teams." />
+    <Override Locale="pl" Value="Wyświetl informacje o kliencie i zaktualizuj rozwiązanie CRM bezpośrednio z programu Outlook oraz współpracuj nad transakcjami i zdobywaj rozbudowane analizy o spotkaniach dot. sprzedaży w Microsoft Teams." />
+    <Override Locale="pt-br" Value="Consulte as informações do cliente e atualize seu CRM diretamente no Outlook; colabore em negociações e obtenha insights sobre reuniões de vendas com o Microsoft Teams." />
+    <Override Locale="pt-pt" Value="Ver informações dos clientes e atualizar o CRM diretamente a partir do Outlook, colaborar em negócios e obter informações detalhadas sobre reuniões de vendas com o Microsoft Teams." />
+    <Override Locale="ro" Value="Vedeți informațiile despre clienți și actualizați-vă soluția CRM direct din Outlook; colaborați la oferte și obțineți detalii amănunțite despre întâlnirile de vânzări, cu Microsoft Teams." />
+    <Override Locale="ru" Value="Просматривайте информацию о клиентах и обновляйте данные в CRM непосредственно из Outlook, а также работайте над сделками вместе с коллегами и получайте подробную аналитику по торговым встречам в Microsoft Teams." />
+    <Override Locale="sk" Value="Pozrite si informácie o zákazníkovi a aktualizujte svoje CRM priamo z Outlooku. Spolupracujte na obchodoch a získavajte bohaté prehľady o obchodných stretnutiach vďaka službe Microsoft Teams." />
+    <Override Locale="sl" Value="Oglejte si podatke o strankah in posodobite storitev CRM neposredno iz Outlooka ter sodelujte pri poslih in pridobite podrobne vpoglede o prodajnih srečanjih s storitvijo Microsoft Teams." />
+    <Override Locale="sr-cyrl" Value="Погледајте информације о клијентима и ажурирајте CRM директно из програма Outlook, те сарађујте на погодбама и стекните богате увиде у продајне састанке уз Microsoft Teams." />
+    <Override Locale="sr-la" Value="Pogledajte informacije o klijentima i ažurirajte CRM direktno iz programa Outlook i sarađujte na poslovima i steknite bogat uvid u prodajne sastanke uz Microsoft Teams." />
+    <Override Locale="sv" Value="Visa kundinformation och uppdatera CRM direkt från Outlook, och samarbeta om affärer och få avancerade insikter om försäljningsmöten med Microsoft Teams." />
+    <Override Locale="th" Value="ดูข้อมูลลูกค้าและอัปเดต CRM ของคุณโดยตรงจาก Outlook และทำงานร่วมกันในข้อตกลงและรับข้อมูลเชิงลึกเกี่ยวกับการประชุมการขายด้วย Microsoft Teams" />
+    <Override Locale="tr" Value="Müşteri bilgilerini inceleyerek CRM uygulamanızı doğrudan Outlook'tan güncelleştirin ve Microsoft Teams ile satış toplantılarında zengin içgörüler edinerek anlaşmalar üzerinde iş birliği yapın." />
+    <Override Locale="uk" Value="Переглядайте відомості про клієнтів і оновлюйте дані в CRM безпосередньо з Outlook, а також співпрацюйте над угодами разом із колегами та отримуйте детальні аналітичні огляди зустрічей із клієнтами в Microsoft Teams." />
+    <Override Locale="vi" Value="Xem thông tin khách hàng và cập nhật CRM trực tiếp từ Outlook, đồng thời cộng tác trong các giao dịch và nhận thông tin chi tiết phong phú về các cuộc họp bán hàng với Microsoft Teams." />
+    <Override Locale="zh-cn" Value="直接在 Outlook 中查看客户信息并更新您的 CRM，然后借助 Microsoft Teams 就交易进行协作并获取有关销售会议的丰富见解。" />
+    <Override Locale="zh-hk" Value="直接從 Outlook 查看客戶資訊並更新 CRM，透過 Microsoft Teams 就交易進行期同作業，並獲得有關銷售會議的豐富深入解析。" />
+    <Override Locale="zh-tw" Value="直接從 Outlook 查看客戶資訊並更新 CRM，透過 Microsoft Teams 就交易進行期同作業，並獲得有關銷售會議的豐富深入解析。" />
+  </Description>
+  <IconUrl DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/manifestimages/appLogo_int_64px.png" />
+  <HighResolutionIconUrl DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/manifestimages/appLogo_int_128px.png" />
+  <SupportUrl DefaultValue="https://go.microsoft.com/fwlink/p/?linkid=2193400" />
+  <Hosts>
+    <Host Name="Mailbox" />
+  </Hosts>
+  <Requirements>
+    <Sets>
+      <Set Name="Mailbox" MinVersion="1.10" />
+    </Sets>
+  </Requirements>
+  <FormSettings>
+    <Form xsi:type="ItemRead">
+      <DesktopSettings>
+        <SourceLocation DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/taskpane.html" />
+        <RequestedHeight>250</RequestedHeight>
+      </DesktopSettings>
+    </Form>
+  </FormSettings>
+  <Permissions>ReadWriteItem</Permissions>
+  <Rule xsi:type="RuleCollection" Mode="Or">
+    <Rule xsi:type="ItemIs" ItemType="Message" FormType="Read" />
+    <Rule xsi:type="ItemIs" ItemType="Message" FormType="Edit" />
+    <Rule xsi:type="ItemIs" ItemType="Appointment" FormType="Read" />
+    <Rule xsi:type="ItemIs" ItemType="Appointment" FormType="Edit" />
+  </Rule>
+  <DisableEntityHighlighting>false</DisableEntityHighlighting>
+  <VersionOverrides xmlns="http://schemas.microsoft.com/office/mailappversionoverrides" xsi:type="VersionOverridesV1_0">
+    <VersionOverrides xmlns="http://schemas.microsoft.com/office/mailappversionoverrides/1.1" xsi:type="VersionOverridesV1_1">
+      <Requirements>
+        <bt:Sets DefaultMinVersion="1.10">
+          <bt:Set Name="Mailbox" />
+        </bt:Sets>
+      </Requirements>
+      <Hosts>
+        <Host xsi:type="MailHost">
+          <!-- Event-based activation happens in a lightweight runtime.-->
+          <Runtimes>
+            <Runtime resid="WebViewRuntime.Url">
+              <Override type="javascript" resid="JSRuntime.Url" />
+            </Runtime>
+          </Runtimes>
+          <DesktopFormFactor>
+            <FunctionFile resid="Commands.Url" />
+            <ExtensionPoint xsi:type="MessageReadCommandSurface">
+              <OfficeTab id="TabDefault">
+                <Group id="msgReadGroup">
+                  <Label resid="GroupLabel" />
+                  <Control xsi:type="Button" id="msgReadOpenPaneButton">
+                    <Label resid="TaskpaneButton.Label" />
+                    <Supertip>
+                      <Title resid="TaskpaneButton.Label" />
+                      <Description resid="TaskpaneButton.Tooltip" />
+                    </Supertip>
+                    <Icon>
+                      <bt:Image size="16" resid="Icon.16x16" />
+                      <bt:Image size="32" resid="Icon.32x32" />
+                      <bt:Image size="80" resid="Icon.80x80" />
+                    </Icon>
+                    <Action xsi:type="ShowTaskpane">
+                      <SourceLocation resid="Taskpane.Url" />
+                      <SupportsPinning>true</SupportsPinning>
+                    </Action>
+                  </Control>
+                </Group>
+              </OfficeTab>
+            </ExtensionPoint>
+            <ExtensionPoint xsi:type="MessageComposeCommandSurface">
+              <OfficeTab id="TabDefault">
+                <Group id="msgComposeGroup">
+                  <Label resid="GroupLabel" />
+                  <Control xsi:type="Button" id="msgComposeOpenPaneButton">
+                    <Label resid="TaskpaneButton.Label" />
+                    <Supertip>
+                      <Title resid="TaskpaneButton.Label" />
+                      <Description resid="TaskpaneButton.Tooltip" />
+                    </Supertip>
+                    <Icon>
+                      <bt:Image size="16" resid="Icon.16x16" />
+                      <bt:Image size="32" resid="Icon.32x32" />
+                      <bt:Image size="80" resid="Icon.80x80" />
+                    </Icon>
+                    <Action xsi:type="ShowTaskpane">
+                      <SourceLocation resid="Taskpane.Url" />
+                      <SupportsPinning>true</SupportsPinning>
+                    </Action>
+                  </Control>
+                </Group>
+              </OfficeTab>
+            </ExtensionPoint>
+            <ExtensionPoint xsi:type="AppointmentOrganizerCommandSurface">
+              <OfficeTab id="TabDefault">
+                <Group id="apptComposeGroup">
+                  <Label resid="GroupLabel" />
+                  <Control xsi:type="Button" id="apptComposeOpenPaneButton">
+                    <Label resid="TaskpaneButton.Label" />
+                    <Supertip>
+                      <Title resid="TaskpaneButton.Label" />
+                      <Description resid="TaskpaneButton.Tooltip" />
+                    </Supertip>
+                    <Icon>
+                      <bt:Image size="16" resid="Icon.16x16" />
+                      <bt:Image size="32" resid="Icon.32x32" />
+                      <bt:Image size="80" resid="Icon.80x80" />
+                    </Icon>
+                    <Action xsi:type="ShowTaskpane">
+                      <SourceLocation resid="Taskpane.Url" />
+                    </Action>
+                  </Control>
+                </Group>
+              </OfficeTab>
+            </ExtensionPoint>
+            <ExtensionPoint xsi:type="AppointmentAttendeeCommandSurface">
+              <OfficeTab id="TabDefault">
+                <Group id="apptReadGroup">
+                  <Label resid="GroupLabel" />
+                  <Control xsi:type="Button" id="apptReadOpenPaneButton">
+                    <Label resid="TaskpaneButton.Label" />
+                    <Supertip>
+                      <Title resid="TaskpaneButton.Label" />
+                      <Description resid="TaskpaneButton.Tooltip" />
+                    </Supertip>
+                    <Icon>
+                      <bt:Image size="16" resid="Icon.16x16" />
+                      <bt:Image size="32" resid="Icon.32x32" />
+                      <bt:Image size="80" resid="Icon.80x80" />
+                    </Icon>
+                    <Action xsi:type="ShowTaskpane">
+                      <SourceLocation resid="Taskpane.Url" />
+                    </Action>
+                  </Control>
+                </Group>
+              </OfficeTab>
+            </ExtensionPoint>
+            <ExtensionPoint xsi:type="LaunchEvent">
+              <LaunchEvents>
+                <LaunchEvent Type="OnNewMessageCompose" FunctionName="onMessageComposeHandler" />
+                <LaunchEvent Type="OnNewAppointmentOrganizer" FunctionName="onAppointmentComposeHandler" />
+                <LaunchEvent Type="OnMessageRecipientsChanged" FunctionName="onMessageRecipientsChangedHandler" />
+                <LaunchEvent Type="OnAppointmentAttendeesChanged" FunctionName="onAppointmentAttendeesChangedHandler" />
+                <LaunchEvent Type="OnInfoBarDismissClicked" FunctionName="onInfoBarDismissClickedHandler" />
+              </LaunchEvents>
+              <!-- Identifies the runtime to be used (also referenced by the Runtime element). -->
+              <SourceLocation resid="WebViewRuntime.Url" />
+            </ExtensionPoint>
+          </DesktopFormFactor>
+        </Host>
+      </Hosts>
+      <Resources>
+        <bt:Images>
+          <bt:Image id="Icon.16x16" DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/manifestimages/appLogo_int_128px.png" />
+          <bt:Image id="Icon.32x32" DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/manifestimages/appLogo_int_64px.png" />
+          <bt:Image id="Icon.80x80" DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/manifestimages/appLogo_int_80px.png" />
+        </bt:Images>
+        <bt:Urls>
+          <bt:Url id="Commands.Url" DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/commands.html" />
+          <bt:Url id="Taskpane.Url" DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/taskpane.html" />
+          <bt:Url id="WebViewRuntime.Url" DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/commands.html" />
+          <!-- Entry needed for Outlook Desktop. -->
+          <bt:Url id="JSRuntime.Url" DefaultValue="https://fre.vivasales.dynamics.com/outlookaddin/commands.js" />
+        </bt:Urls>
+        <bt:ShortStrings>
+          <bt:String id="GroupLabel" DefaultValue="Add-in">
+            <bt:Override Locale="ar" Value="وظيفة إضافية" />
+            <bt:Override Locale="bg" Value="Добавка" />
+            <bt:Override Locale="ca" Value="Complement" />
+            <bt:Override Locale="cs" Value="Doplněk" />
+            <bt:Override Locale="da" Value="Tilføjelsesprogram" />
+            <bt:Override Locale="de" Value="Add-In" />
+            <bt:Override Locale="el" Value="Πρόσθετο" />
+            <bt:Override Locale="en-gb" Value="Add-in" />
+            <bt:Override Locale="es-mx" Value="Complemento" />
+            <bt:Override Locale="es" Value="Complemento" />
+            <bt:Override Locale="et" Value="Lisandmoodul" />
+            <bt:Override Locale="eu" Value="Osagarria" />
+            <bt:Override Locale="fi" Value="Laajennus" />
+            <bt:Override Locale="fr-ca" Value="Complément" />
+            <bt:Override Locale="fr" Value="Complément" />
+            <bt:Override Locale="gl" Value="Suplemento" />
+            <bt:Override Locale="he" Value="תוספת" />
+            <bt:Override Locale="hi" Value="ऐड-इन" />
+            <bt:Override Locale="hr" Value="Dodatak" />
+            <bt:Override Locale="hu" Value="Bővítmény" />
+            <bt:Override Locale="id" Value="Add-in" />
+            <bt:Override Locale="it" Value="Componente aggiuntivo" />
+            <bt:Override Locale="ja" Value="アドイン" />
+            <bt:Override Locale="kk" Value="Қондырма" />
+            <bt:Override Locale="ko" Value="추가 기능" />
+            <bt:Override Locale="lt" Value="Papildinys" />
+            <bt:Override Locale="lv" Value="Pievienojumprogramma" />
+            <bt:Override Locale="ms" Value="Tambahan" />
+            <bt:Override Locale="nb-no" Value="Tilleggsprogram" />
+            <bt:Override Locale="nl" Value="Invoegtoepassing" />
+            <bt:Override Locale="pl" Value="Dodatek" />
+            <bt:Override Locale="pt-br" Value="Suplemento" />
+            <bt:Override Locale="pt-pt" Value="Suplemento" />
+            <bt:Override Locale="ro" Value="Program de completare" />
+            <bt:Override Locale="ru" Value="Надстройка" />
+            <bt:Override Locale="sk" Value="Doplnok" />
+            <bt:Override Locale="sl" Value="Dodatek" />
+            <bt:Override Locale="sr-cyrl" Value="Програмски додатак" />
+            <bt:Override Locale="sr-la" Value="Programski dodatak" />
+            <bt:Override Locale="sv" Value="Tillägg" />
+            <bt:Override Locale="th" Value="Add-in" />
+            <bt:Override Locale="tr" Value="Eklenti" />
+            <bt:Override Locale="uk" Value="Надбудова" />
+            <bt:Override Locale="vi" Value="Phần bổ trợ" />
+            <bt:Override Locale="zh-cn" Value="加载项" />
+            <bt:Override Locale="zh-hk" Value="增益集" />
+            <bt:Override Locale="zh-tw" Value="增益集" />
+          </bt:String>
+          <bt:String id="TaskpaneButton.Label" DefaultValue="Sales Copilot (INT)">
+            <bt:Override Locale="ar" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="bg" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="ca" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="cs" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="da" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="de" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="el" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="en-gb" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="es-mx" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="es" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="et" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="eu" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="fi" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="fr-ca" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="fr" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="gl" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="he" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="hi" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="hr" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="hu" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="id" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="it" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="ja" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="kk" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="ko" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="lt" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="lv" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="ms" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="nb-no" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="nl" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="pl" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="pt-br" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="pt-pt" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="ro" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="ru" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="sk" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="sl" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="sr-cyrl" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="sr-la" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="sv" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="th" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="tr" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="uk" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="vi" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="zh-cn" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="zh-hk" Value="Sales Copilot (INT)" />
+            <bt:Override Locale="zh-tw" Value="Sales Copilot (INT)" />
+          </bt:String>
+        </bt:ShortStrings>
+        <bt:LongStrings>
+          <bt:String id="TaskpaneButton.Tooltip" DefaultValue="See customer info and update your CRM directly from Outlook, and collaborate on deals and get rich insights on sales meetings with Microsoft Teams.">
+            <bt:Override Locale="ar" Value="راجع معلومات العميل وحدّث CRM مباشرة من Outlook، وتعاون في العمل على الصفقات واحصل على رؤى غينة حول اجتماعات المبيعات من خلال Microsoft Teams." />
+            <bt:Override Locale="bg" Value="Вижте информация за клиента и актуализирайте своя CRM директно от Outlook и си сътрудничете по сделки и получавайте богата аналитична информация за срещи за продажби с Microsoft Teams." />
+            <bt:Override Locale="ca" Value="Vegeu informació del client i actualitzeu el vostre CRM directament des de l'Outlook, i col·laboreu en operacions i obteniu informació detallada sobre les reunions de vendes amb el Microsoft Teams." />
+            <bt:Override Locale="cs" Value="Můžete si prohlížet informace o zákaznících a aktualizovat CRM přímo v Outlooku, spolupracovat na obchodech a získat cenné informace o prodejních schůzkách přes Microsoft Teams." />
+            <bt:Override Locale="da" Value="Få vist kundeoplysninger, og opdater din CRM direkte fra Outlook, og samarbejd om handler, og få indsigt i salgsmøde med Microsoft Teams." />
+            <bt:Override Locale="de" Value="Zeigen Sie Kundeninformationen an und aktualisieren Sie Ihren CRM direkt in Outlook, und arbeiten Sie zusammen an Geschäftsabschlüssen und erhalten Sie umfassende Erkenntnisse aus Vertriebsbesprechungen mit Microsoft Teams." />
+            <bt:Override Locale="el" Value="Δείτε πληροφορίες πελατών και ενημερώστε το CRM απευθείας από το Outlook, συνεργαστείτε σε συμφωνίες και αποκτήστε εμπλουτισμένες πληροφορίες σχετικά με συσκέψεις πωλήσεων με το Microsoft Teams." />
+            <bt:Override Locale="en-gb" Value="See customer info and update your CRM directly from Outlook, and collaborate on deals and get rich insights on sales meetings with Microsoft Teams." />
+            <bt:Override Locale="es-mx" Value="Consulte información del cliente y actualice su instancia de CRM directamente en Outlook, colabore en las ofertas y obtenga información valiosa sobre las reuniones de venta con Microsoft Teams." />
+            <bt:Override Locale="es" Value="Vea información del cliente y actualice su sistema de CRM directamente desde Outlook, y colabore en operaciones y obtenga información enriquecida de las reuniones de ventas con Microsoft Teams." />
+            <bt:Override Locale="et" Value="Saate kuvada klienditeavet ja värskendada oma CRM-i otse Outlookis ning arendada tehinguid ja saada müügikoosolekute kohta rikkalikke ülevaateid Microsoft Teamsis." />
+            <bt:Override Locale="eu" Value="Ikusi bezeroen informazioa eta eguneratu CRM zuzenean Outlook-etik, aritu elkarlanean tratuetan eta lortu salmenta-bileren xehetasun aberatsak Microsoft Teams-i esker." />
+            <bt:Override Locale="fi" Value="Näytä asiakastiedot ja päivitä CRM-järjestelmäsi suoraan Outlookista sekä tee yhteistyötä kaupanteossa ja hanki monipuolisia tietoja myyntikokouksista Microsoft Teamsilla." />
+            <bt:Override Locale="fr-ca" Value="Consultez les informations des clients et mettez à jour votre CRM directement à partir d’Outlook. Collaborez sur des contrats et obtenez de précieuses informations sur les réunions commerciales avec Microsoft Teams." />
+            <bt:Override Locale="fr" Value="Consultez les informations sur le client et mettez à jour votre version de CRM directement depuis Outlook, puis collaborez sur des transactions et obtenez des informations enrichies sur les réunions sur les ventes avec Microsoft Teams." />
+            <bt:Override Locale="gl" Value="Consulte a información do cliente e actualice o seu CRM directamente desde Outlook, colabore en ofertas e obteña información enriquecida sobre reunións de vendas con Microsoft Teams." />
+            <bt:Override Locale="he" Value="הצג את פרטי הלקוח ועדכן את מערכת CRM שלך ישירות מ- Outlook, ושתף פעולה בעסקאות וקבל תובנות עשירות לגבי פגישות מכירה באמצעות Microsoft Teams." />
+            <bt:Override Locale="hi" Value="ग्राहक जानकारी देखें और अपने CRM को सीधे Outlook से अपडेट करें, और सौदों पर सहयोग करें और Microsoft Teams के साथ विक्रय मीटिंग्स पर रिच इनसाइट्स प्राप्त करें." />
+            <bt:Override Locale="hr" Value="Pogledajte podatke o klijentima i ažurirajte svoj CRM izravno iz programa Outlook te surađujte na poslovima i primajte bogate uvide o prodajnim sastancima uz Microsoft Teams." />
+            <bt:Override Locale="hu" Value="Megtekintheti az ügyfelek adatait, frissítheti CRM-jét közvetlenül az Outlookból, együttműködhet munkatársaival az értékesítés során, és részletes betekintéseket kaphat az értékesítési találkozókról a Microsoft Teams segítségével." />
+            <bt:Override Locale="id" Value="Lihat info pelanggan dan perbarui CRM langsung dari Outlook, lalu kolaborasikan penawaran serta dapatkan wawasan yang kaya tentang rapat penjualan dengan Microsoft Teams." />
+            <bt:Override Locale="it" Value="Visualizza le informazioni sul cliente e aggiorna il CRM direttamente da Outlook, quindi collabora alle transazioni e ottieni informazioni dettagliate approfondite sulle riunioni di vendita con Microsoft Teams." />
+            <bt:Override Locale="ja" Value="Outlook から顧客情報を表示して直接 CRM を更新し、Microsoft Teams で取引を共同作業して営業会議で充実した分析情報を取得します。" />
+            <bt:Override Locale="kk" Value="Тұтынушы туралы ақпаратты қараңыз және CRM жүйесін тікелей Outlook бағдарламасынан жаңартыңыз, сонымен қатар Microsoft Teams жүйесімен келісімдер бойынша бірлесіп жұмыс жасаңыз және сатылым жиналыстары туралы пішімделген мәліметтер алыңыз." />
+            <bt:Override Locale="ko" Value="Microsoft Teams를 사용하여 고객 정보를 보고 Outlook에서 바로 CRM을 업데이트하고, 거래에 대한 공동 작업을 수행하고 영업 모임에 관한 다양한 인사이트를 얻으세요." />
+            <bt:Override Locale="lt" Value="Peržiūrėkite kliento informaciją ir atnaujinkite savo CRM tiesiai per „Outlook“, bendradarbiaukite dėl sandorių ir gaukite išsamių įžvalgų apie pardavimų susitikimus per „Microsoft Teams“." />
+            <bt:Override Locale="lv" Value="Skatiet klientu informāciju un atjauniniet savus CRM datus tieši no Outlook, kā arī sadarbojieties darījumos un iegūstiet bagātīgus ieskatus par pārdošanas sapulcēm programmā Microsoft Teams." />
+            <bt:Override Locale="ms" Value="Lihat maklumat pelanggan dan kemas kini CRM anda terus daripada Outlook, di samping bekerjasama dalam urusan serta mendapatkan cerapan beraneka tentang mesyuarat jualan dengan Microsoft Teams." />
+            <bt:Override Locale="nb-no" Value="Se kundeinformasjon og oppdater CRM direkte fra Outlook, og samarbeid om avtaler og få omfattende innsikt i salgsmøter med Microsoft Teams." />
+            <bt:Override Locale="nl" Value="Bekijk klantgegevens en werk uw CRM direct vanuit Outlook bij, werk samen aan deals en krijg uitgebreide inzichten over verkoopgesprekken met Microsoft Teams." />
+            <bt:Override Locale="pl" Value="Wyświetl informacje o kliencie i zaktualizuj rozwiązanie CRM bezpośrednio z programu Outlook oraz współpracuj nad transakcjami i zdobywaj rozbudowane analizy o spotkaniach dot. sprzedaży w Microsoft Teams." />
+            <bt:Override Locale="pt-br" Value="Consulte as informações do cliente e atualize seu CRM diretamente no Outlook; colabore em negociações e obtenha insights sobre reuniões de vendas com o Microsoft Teams." />
+            <bt:Override Locale="pt-pt" Value="Ver informações dos clientes e atualizar o CRM diretamente a partir do Outlook, colaborar em negócios e obter informações detalhadas sobre reuniões de vendas com o Microsoft Teams." />
+            <bt:Override Locale="ro" Value="Vedeți informațiile despre clienți și actualizați-vă soluția CRM direct din Outlook; colaborați la oferte și obțineți detalii amănunțite despre întâlnirile de vânzări, cu Microsoft Teams." />
+            <bt:Override Locale="ru" Value="Просматривайте информацию о клиентах и обновляйте данные в CRM непосредственно из Outlook, а также работайте над сделками вместе с коллегами и получайте подробную аналитику по торговым встречам в Microsoft Teams." />
+            <bt:Override Locale="sk" Value="Pozrite si informácie o zákazníkovi a aktualizujte svoje CRM priamo z Outlooku. Spolupracujte na obchodoch a získavajte bohaté prehľady o obchodných stretnutiach vďaka službe Microsoft Teams." />
+            <bt:Override Locale="sl" Value="Oglejte si podatke o strankah in posodobite storitev CRM neposredno iz Outlooka ter sodelujte pri poslih in pridobite podrobne vpoglede o prodajnih srečanjih s storitvijo Microsoft Teams." />
+            <bt:Override Locale="sr-cyrl" Value="Погледајте информације о клијентима и ажурирајте CRM директно из програма Outlook, те сарађујте на погодбама и стекните богате увиде у продајне састанке уз Microsoft Teams." />
+            <bt:Override Locale="sr-la" Value="Pogledajte informacije o klijentima i ažurirajte CRM direktno iz programa Outlook i sarađujte na poslovima i steknite bogat uvid u prodajne sastanke uz Microsoft Teams." />
+            <bt:Override Locale="sv" Value="Visa kundinformation och uppdatera CRM direkt från Outlook, och samarbeta om affärer och få avancerade insikter om försäljningsmöten med Microsoft Teams." />
+            <bt:Override Locale="th" Value="ดูข้อมูลลูกค้าและอัปเดต CRM ของคุณโดยตรงจาก Outlook และทำงานร่วมกันในข้อตกลงและรับข้อมูลเชิงลึกเกี่ยวกับการประชุมการขายด้วย Microsoft Teams" />
+            <bt:Override Locale="tr" Value="Müşteri bilgilerini inceleyerek CRM uygulamanızı doğrudan Outlook'tan güncelleştirin ve Microsoft Teams ile satış toplantılarında zengin içgörüler edinerek anlaşmalar üzerinde iş birliği yapın." />
+            <bt:Override Locale="uk" Value="Переглядайте відомості про клієнтів і оновлюйте дані в CRM безпосередньо з Outlook, а також співпрацюйте над угодами разом із колегами та отримуйте детальні аналітичні огляди зустрічей із клієнтами в Microsoft Teams." />
+            <bt:Override Locale="vi" Value="Xem thông tin khách hàng và cập nhật CRM trực tiếp từ Outlook, đồng thời cộng tác trong các giao dịch và nhận thông tin chi tiết phong phú về các cuộc họp bán hàng với Microsoft Teams." />
+            <bt:Override Locale="zh-cn" Value="直接在 Outlook 中查看客户信息并更新您的 CRM，然后借助 Microsoft Teams 就交易进行协作并获取有关销售会议的丰富见解。" />
+            <bt:Override Locale="zh-hk" Value="直接從 Outlook 查看客戶資訊並更新 CRM，透過 Microsoft Teams 就交易進行期同作業，並獲得有關銷售會議的豐富深入解析。" />
+            <bt:Override Locale="zh-tw" Value="直接從 Outlook 查看客戶資訊並更新 CRM，透過 Microsoft Teams 就交易進行期同作業，並獲得有關銷售會議的豐富深入解析。" />
+          </bt:String>
+        </bt:LongStrings>
+      </Resources>
+      <WebApplicationInfo>
+        <Id>4787c7ff-7cea-43db-8d0d-919f15c6354b</Id>
+        <Resource>api://fre.vivasales.dynamics.com/4787c7ff-7cea-43db-8d0d-919f15c6354b</Resource>
+        <Scopes>
+          <Scope>User.Read</Scope>
+          <Scope>profile</Scope>
+          <Scope>openid</Scope>
+          <Scope>OnlineMeetingArtifact.Read.All</Scope>
+        </Scopes>
+      </WebApplicationInfo>
+    </VersionOverrides>
+  </VersionOverrides>
+</OfficeApp>
